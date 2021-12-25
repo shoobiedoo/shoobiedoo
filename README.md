@@ -3,6 +3,7 @@
 - 🌱 I’m currently in an Flipkart(Walmart)
 - 💞️ I’m looking to collaborate on open source preojects related to Java,Python,etc.
 - 📫 How to reach me ...
+- Linkedin : www.linkedin.com/in/shubh101
 shubhubits313@gmail.com
 +91 8707235731
 <!---
