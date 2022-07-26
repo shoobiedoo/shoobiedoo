@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhankit Singh
 - 👀 I’m interested in Distributed Sytems
-- 🌱 I’m currently in an Flipkart(Walmart)
+- 🌱 I’m currently in Microsoft and have worked in Flipkart(Walmart)
 - 💞️ I’m looking to collaborate on open source preojects related to Java,Python,etc.
 - 📫 How to reach me ...
 - Linkedin : www.linkedin.com/in/shubh101
