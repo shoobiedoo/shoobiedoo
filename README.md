@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Shubhankit Singh
-- 👀 I’m interested in Distributed Sytems and Quantitative Finance.
-- 🌱 I’m currently in Microsoft and have worked in Flipkart(Walmart)
-- 💞️ I’m looking to collaborate on open source preojects related to C++,Java,Python,etc.
+- 👀 I’m interested in Distributed systems and Quantitative Finance.
+- 🌱 I’m currently leading a startup called Invsto as a CTO and have worked in Microsoft, Flipkart(Walmart)
+- 💞️ I’m looking to collaborate on open-source projects related to C++, Java, Python, etc.
 - 📫 How to reach me ...
-- Linkedin : www.linkedin.com/in/shubh101
+- Linkedin: www.linkedin.com/in/shubh101
 shubhubits313@gmail.com
 +91 8707235731
 <!---
